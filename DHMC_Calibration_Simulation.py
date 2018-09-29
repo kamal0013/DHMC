@@ -1,5 +1,5 @@
 ## This script calibrates the parameters of DHMC 
-##...and generates stochastic rainfall series.
+##...and generates multiple (say 1000) stochastic rainfall series.
 ## Change the filename of observed data and user inputs as required.
 ## Calibrated parameters and simulated rainfall can be saved in text files.
 
