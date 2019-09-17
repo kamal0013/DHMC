@@ -1,4 +1,4 @@
-![license MIT](https://img.shields.io/github/license/kamal0013/DHMC-Stochastic-Rainfall-Simulator-in-Python) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![license MIT](https://img.shields.io/github/license/kamal0013/DHMC-Stochastic-Rainfall-Simulator-in-Python) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![DOI](https://zenodo.org/badge/150885401.svg)](https://zenodo.org/badge/latestdoi/150885401)
 # DHMC for Stochastic-Daily-Rainfall-Simulation
 This repository presents a Python code of the Decadal and Hierarchical Markov Chain (DHMC) model for stochastic simulation of daily rainfall. Technical details of the model are available in the following publications. 
 
